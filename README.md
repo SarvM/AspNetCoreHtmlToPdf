@@ -28,13 +28,13 @@ There is wrapper for .Net Core written by fpanaccia [wkhtmltopdf.NetCore](https:
 	
 	```
 	
-		|   └── Rotativa
-	|   |   ├── Linux
-	|   |   |   └── wkhtmltopdf
-	|   |   ├── Mac
-	|   |   |   └── wkhtmltopdf
-	|   |   └── Windows
-	|   |       └── wkhtmltopdf.exe
+		    └── Rotativa
+		    |   ├── Linux
+		    |   |   └── wkhtmltopdf
+		    |   ├── Mac
+		    |   |   └── wkhtmltopdf
+		    |   └── Windows
+		    |       └── wkhtmltopdf.exe
 	
 	```
 	
