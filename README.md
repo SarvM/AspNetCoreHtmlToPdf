@@ -26,6 +26,8 @@ There is wrapper for .Net Core written by fpanaccia [wkhtmltopdf.NetCore](https:
 
 	> Source Code: The folder has to be copied to the working folder 
 	
+	```
+	
 		|   └── Rotativa
 	|   |   ├── Linux
 	|   |   |   └── wkhtmltopdf
@@ -33,6 +35,8 @@ There is wrapper for .Net Core written by fpanaccia [wkhtmltopdf.NetCore](https:
 	|   |   |   └── wkhtmltopdf
 	|   |   └── Windows
 	|   |       └── wkhtmltopdf.exe
+	
+	```
 	
 	> Build: The folder sometimes won't get copied to Release folder, in that case copy it manually. 
 	
